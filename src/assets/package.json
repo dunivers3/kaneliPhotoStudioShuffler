@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "50 js projects",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "sass",
+    "json",
+    "node",
+    "react"
+  ],
+  "author": "Duniverse",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
