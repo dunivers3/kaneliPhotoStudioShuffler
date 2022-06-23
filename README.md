@@ -4,8 +4,8 @@
   <a href="https://github.com/dunivers3/kaneliPhotoStudioShuffler/blob/main/LICENSE" target="_blank">
     <img alt="License: LGPL--2.1 license" src="https://img.shields.io/badge/License-LGPL--2.1 license-yellow.svg" />
   </a>
-  <a href="https://twitter.com/\_duniverse" target="_blank">
-    <img alt="Twitter: \_duniverse" src="https://img.shields.io/twitter/follow/\_duniverse.svg?style=social" />
+  <a href="https://twitter.com/@_duniverse" target="_blank">
+    <img alt="Twitter: @_duniverse" src="https://img.shields.io/twitter/follow/@_duniverse.svg?style=social" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 👤 **duniverse**
 
 * Website: www.duniverseinc.com
-* Twitter: [@\_duniverse](https://twitter.com/\_duniverse)
+* Twitter: [@_duniverse](https://twitter.com/@_duniverse)
 * Github: [@dunivers3](https://github.com/dunivers3)
 * LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
 
@@ -37,5 +37,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [duniverse](https://github.com/dunivers3).<br />
 This project is [LGPL--2.1 license](https://github.com/dunivers3/kaneliPhotoStudioShuffler/blob/main/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
