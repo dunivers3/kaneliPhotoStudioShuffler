@@ -11,9 +11,9 @@
 
 > Shuffles a single photo hiding the other photos from view
 
-### 🏠 [Homepage](kanelStudio.netlify.app)
+### 🏠 [Homepage](https://kaneliphotostudio.netlify.app/)
 
-<img src="https://images.pexels.com/photos/10502162/pexels-photo-10502162.jpeg?cs=srgb&dl=pexels-kwon-osu-10502162.jpg&fm=jpg" style="width: auto; height: 500px" alt ="file">
+<img src="https://images.unsplash.com/photo-1528916282053-c83897a7063c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" style="width: auto; height: 500px" alt ="file">
 
 ### ✨ [Demo](https://github.com/dunivers3/kaneliPhotoStudioShuffler)
 
