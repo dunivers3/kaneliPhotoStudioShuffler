@@ -4,8 +4,8 @@
   <a href="https://github.com/dunivers3/kaneliPhotoStudioShuffler/blob/main/LICENSE" target="_blank">
     <img alt="License: LGPL--2.1 license" src="https://img.shields.io/badge/License-LGPL--2.1 license-yellow.svg" />
   </a>
-  <a href="https://twitter.com/@_duniverse" target="_blank">
-    <img alt="Twitter: @_duniverse" src="https://img.shields.io/twitter/follow/@_duniverse.svg?style=social" />
+    <a href="https://twitter.com/_duniverse" target="_blank">
+    <img alt="Twitter: _duniverse" src="https://img.shields.io/twitter/follow/_duniverse.svg?style=social" />
   </a>
 </p>
 
@@ -13,16 +13,45 @@
 
 ### 🏠 [Homepage](kanelStudio.netlify.app)
 
+<img src="https://images.pexels.com/photos/10502162/pexels-photo-10502162.jpeg?cs=srgb&dl=pexels-kwon-osu-10502162.jpg&fm=jpg" style="width: auto; height: 500px" alt ="file">
+
 ### ✨ [Demo](https://github.com/dunivers3/kaneliPhotoStudioShuffler)
+
+### How it's made:
+
+> <strong>Tech used: </strong> HTML, CSS, Javascript. </br>
+> The website is designed with beauty in mind. No man can deny the grasp of a good photo, smooth transitions and beautiful colors massaged into one component.
+
+## Optimizations:
+
+-   With more resources and time, add live photos, and videos.
+-   Integrate a database where users can log in an add their private photos.
+
+## Lessons learnt:
+
+> This project brings to life the integration of javascript and css together to form an unbreakable bond of creativity and beauty.
+> Simple user-friendly apps bring the best out of client experience
+
+## Install
+
+```sh
+npm install
+```
+
+## Run tests
+
+```sh
+npm run test
+```
 
 ## Author
 
-👤 **duniverse**
+👤 **duncan**
 
-* Website: www.duniverseinc.com
-* Twitter: [@_duniverse](https://twitter.com/@_duniverse)
-* Github: [@dunivers3](https://github.com/dunivers3)
-* LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
+-   Website: www.duniverse.me
+-   Twitter: [@\_duniverse](https://twitter.com/_duniverse)
+-   Github: [@dunivers3](https://github.com/dunivers3)
+-   LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
 
 ## 🤝 Contributing
 
@@ -30,10 +59,9 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️
 
 ## 📝 License
 
 Copyright © 2022 [duniverse](https://github.com/dunivers3).<br />
 This project is [LGPL--2.1 license](https://github.com/dunivers3/kaneliPhotoStudioShuffler/blob/main/LICENSE) licensed.
-
